@@ -27,8 +27,8 @@ Phishing is one of the most common cyber attacks used to steal sensitive informa
 
 ## 📂 Repository Contents
 
-- 📄 Phishing_Awareness_Training.pdf
-- 📊 Phishing_Awareness_Training.pptx
+- 📄 Phishing_Awareness_Training 2.pdf
+- 📊 Phishing_Awareness_Training 2.pptx
 - 📘 README.md
 
 ---
